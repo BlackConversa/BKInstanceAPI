@@ -9,15 +9,6 @@
 - **Processamento Melhorado**: Aproveite o processamento melhorado, que permite lidar com grandes volumes de mensagens sem comprometer o desempenho.
 - **Melhor Instância de WhatsApp do Mercado**: BKInstanceAPI é reconhecida como a melhor instância de WhatsApp disponível, oferecendo uma solução robusta e confiável para suas necessidades de comunicação.
 
-## 🚀 Começando
-
-Para começar a usar a BKInstanceAPI, siga as instruções abaixo:
-
-### Pré-requisitos
-
-- [Go](https://golang.org/doc/install) versão 1.16+
-- [PostgreSQL](https://www.postgresql.org/download/) para armazenar dados persistentes
-
 ## 📚 Documentação
 
 Para mais detalhes sobre a API e como integrá-la em seu sistema, consulte a documentação completa.
